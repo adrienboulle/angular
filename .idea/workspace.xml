@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c990d2-172d-4f88-98b1-d7115c08e936" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations.es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations.es5.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser.es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser.es5.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser/testing.es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser/testing.es5.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser/testing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/@angular/animations/browser/testing.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,7 +31,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -247,12 +270,12 @@
       <workItem from="1497016543906" duration="1994000" />
       <workItem from="1497367391092" duration="17926000" />
       <workItem from="1497963217378" duration="1052000" />
-      <workItem from="1498654126878" duration="3974000" />
+      <workItem from="1498654126878" duration="4020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68980000" />
+    <option name="totallyTimeSpent" value="69026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1053" extended-state="6" />
@@ -698,14 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -726,6 +741,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="4121" column="3" lean-forward="true" selection-start-line="4121" selection-start-column="3" selection-end-line="4121" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>
