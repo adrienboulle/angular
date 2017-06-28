@@ -1,6 +1,7 @@
-/**
- * @license Angular v4.3.0-beta.0-1fc0d05
- * (c) 2010-2017 Google, Inc. https://angular.io/
- * License: MIT
- */ 
- export * from './browser/index'
+import { TransferState } from './transfer-state';
+export declare function getTransferState(): TransferState;
+export declare function noop(): void;
+export declare function getTransferInitializer(transferState: TransferState): any;
+export declare class BrowserTransferStateModule {
+}
+export { TransferState, TransferHttp, TransferHttpModule } from './transfer-state';

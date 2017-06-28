@@ -1,88 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53c990d2-172d-4f88-98b1-d7115c08e936" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations.es5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations.es5.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser.es5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser.es5.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser/testing.es5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser/testing.es5.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser/testing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/@angular/animations/browser/testing.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/animations.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/animations.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/index.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/public_api.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/browser.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_ast.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_ast_builder.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_dsl_visitor.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_timeline_builder.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_timeline_instruction.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_transition_expr.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_transition_factory.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_transition_instruction.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/animation_trigger.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/element_instruction_map.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/style_normalization/animation_style_normalizer.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/style_normalization/animation_style_normalizer.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/dsl/style_normalization/web_animations_style_normalizer.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/private_export.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/animation_driver.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/animation_driver.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/animation_engine_instruction.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/animation_engine_next.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/shared.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/shared.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/timeline_animation_engine.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/transition_animation_engine.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/web_animations/dom_animation.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/web_animations/web_animations_driver.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/render/web_animations/web_animations_player.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/src/util.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/index.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/src/mock_animation_driver.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/src/mock_animation_driver.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/src/testing.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browser/testing/src/testing.metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser-testing.umd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser-testing.umd.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser-testing.umd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser-testing.umd.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser.umd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser.umd.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser.umd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations-browser.umd.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations.umd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations.umd.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations.umd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/bundles/animations.umd.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public_api.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/animation_builder.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/animation_event.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/animation_metadata.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/animations.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/players/animation_group_player.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/players/animation_player.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/private_export.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/util.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="53c990d2-172d-4f88-98b1-d7115c08e936" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -331,12 +250,12 @@
       <workItem from="1497016543906" duration="1994000" />
       <workItem from="1497367391092" duration="17926000" />
       <workItem from="1497963217378" duration="1052000" />
-      <workItem from="1498654126878" duration="4453000" />
+      <workItem from="1498654126878" duration="4593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69459000" />
+    <option name="totallyTimeSpent" value="69599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1053" extended-state="6" />
